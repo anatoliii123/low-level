@@ -1,0 +1,18 @@
+    :            0B         0010       00          6164647265737320676170        A7     /* Data */
+Start Code   Byte Count     Address  Record Type         Data                  Checksum  
+
+  ---> :0B0010006164647265737320676170A7 <---
+ 
+
+
+
+
+:00000001FF                        /* End of File */
+
+:020000021200EA                    /* Extended Segment Address */       
+
+:0400000300003800C1                /*	Start Segment Address */
+
+:02000004FFFFFC                    /* Extended Linear Address */
+
+:04000005000000CD2A               /* Start linear Address  */
